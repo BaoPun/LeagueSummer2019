@@ -1,0 +1,174 @@
+body{
+	margin: 0;
+	background-color: #c3c3ef;
+}
+
+header{
+	background-color: powderblue;
+	/*height: 120px;*/
+	width: 100%;
+	text-align: center;
+}
+
+#LUL{
+	font-size: 25px;
+	font-style: italic;
+	height: 25px;
+	display: inline-block;
+	text-align: center;
+}
+
+
+
+#LUL:hover{
+	background-color: pink;
+}
+
+.navbar{
+  	font-size: 18px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.navlist {
+  	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: gold;
+	width: 100%;
+}
+
+.navitem {
+  	display: inline-block;
+	/*border: 1px dashed red;
+	background-color: yellow;*/
+	font-style: italic;
+}
+.navitem:hover{
+	background-color: pink;
+}
+
+.navlink a {
+  	padding: 10px 152px;
+  	display: inline-block;
+}
+
+
+#fix{
+	text-align: center;
+	vertical-align: middle;
+}
+
+th{
+	border: 3px solid black;
+}
+
+tr, td{
+	border: 3px solid brown;
+}
+
+table{
+	text-align: center;
+	border: 3px solid indigo;
+}
+
+.teams-information{
+	text-align: center;
+}
+
+.team-profile{
+	text-align: center;
+	display: inline-block;
+	vertical-align: middle;
+	float: left;
+}
+
+.team-history{
+	float: right;
+}
+
+#t05{
+	float: left;
+	/*padding: 0 0 4px 0;*/
+	display: inline-block;
+}
+
+#t06{
+	float: right;
+	display: inline-block;
+}
+
+
+#team, #detail{
+	background-color: dodgerblue;
+}
+
+/*#detail{
+	background-color: dodgerblue;
+}*/
+
+h2, #scaling{
+	color: forestgreen;
+}
+
+/*#scaling{
+	color: forestgreen;
+}*/
+
+.containers{
+	display: block;
+	text-align: center;
+	width: 50%;
+	/*border: 4px dashed dodgerblue;*/
+	margin: 0 auto;
+}
+
+img{
+	display: inline-block;
+}
+
+.description{
+	text-align: center;	
+}
+
+#go-back{
+	vertical-align: middle;
+	text-align: center;
+}
+
+.redirect{
+	padding: 25px;
+	background-color: dodgerblue;
+	display: inline-block;
+	border-radius: 25px;
+}
+
+#add{
+	padding: 10px;
+	background-color: #FAD7A0;
+	border-radius: 5px;
+	text-align: center;
+	
+}
+
+#addwrap{
+	display: inline;
+}
+
+#scaling{
+	display: inline;
+}
+
+#league{
+	text-align: center;
+}
+
+.add-match{
+	text-align: center;
+	background-color: #f2f2f2;
+	border: 3px dashed #FAD7A0;
+	border-radius: 15px;
+	width: auto;
+}
+
+
